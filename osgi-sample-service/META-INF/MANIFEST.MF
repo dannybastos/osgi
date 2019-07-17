@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: osgi-sample-service
+Bundle-SymbolicName: osgi-sample-service
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.osgi.sample.osgi.sample.app.service
+Require-Bundle: org.eclipse.osgi;bundle-version="3.13.300"
+Bundle-Activator: br.osgi.sample.osgi.sample.app.impl.GreeterImpl
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

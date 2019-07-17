@@ -1,0 +1,3 @@
+br/osgi/sample/osgi/sample/app/service/Greeter.class
+br/osgi/sample/osgi/sample/app/impl/GreeterImpl.class
+br/osgi/sample/osgi/sample/app/service/GreeterServiceFactory.class
